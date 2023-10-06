@@ -1,10 +1,4 @@
-# // NAME: LOKESH PATIL
-# // Roll Number: CS20B047
-# // Course: CS3205 Jan. 2023 semester
-# // Lab number: 4
-# // Date of submission: 05.04.23
-# // I confirm that the source file is entirely written by me without
-# // resorting to any dishonest means.
+
 
 We use port number: 12345 (non-priviledged port number as non-admin can also run on this)
 NACK is represent by 1000
